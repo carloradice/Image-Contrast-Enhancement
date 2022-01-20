@@ -7,6 +7,7 @@ Python implementations of "[A New Image Contrast Enhancement Algorithm Using Exp
 - A New Image Contrast Enhancement Algorithm Using Exposure Fusion Framework
 
 ### Requirements
+- Python 3.6
 - scipy
 - numpy
 - imageio
